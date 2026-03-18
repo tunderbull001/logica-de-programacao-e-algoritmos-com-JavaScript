@@ -3,7 +3,7 @@
 const b = 2*2 // multiplicacao // b = 4
 const c = 2+2 // adição        // c = 4
 const d = 2-2 // subtração     // d = 0
-const e = 2/2 // divição 	   // e = 0	
+const e = 2/2 // divição 	   // e = 1
 const f = 3 % 2 // operador de módulo  // f = 1
 const g = 2**3 // exponenciacao       // g =  8 
 </script>
